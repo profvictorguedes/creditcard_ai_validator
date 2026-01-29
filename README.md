@@ -10,4 +10,4 @@ The app solution contains:
 app.py, 
 azure_blob.py, 
 ocr_service.py, 
-card_validator.py, 
+card_validator.py.
