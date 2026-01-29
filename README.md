@@ -7,7 +7,7 @@ An anti-fraud image analyzer that:
 
 The app solution contains:
 
-app.py
-azure_blob.py
-ocr_service.py
-card_validator.py
+app.py, 
+azure_blob.py, 
+ocr_service.py, 
+card_validator.py, 
